@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aazamandius1
 - 👀 I’m interested in Life, the Universe, and Everything. 42!
 - 🌱 I’m currently learning JS, python, linux and other cool stuff to roll into DevOps 
-- 💞️ I’m looking to collaborate on micologists, ecologysts, neuroscientists and other smart and cool ppl
+- 💞️ I’m attracted by curiosity, balance and beauty
 - 📫 How to reach me dunno, it`s up to u
 
 <!---
